@@ -932,7 +932,7 @@ export default function ComponentsPage() {
       <main className="container mx-auto px-4 py-8">
         {/* Header */}
         <div className="text-center mb-12">
-          <h1 className="text-4xl md:text-6xl font-bold mb-4">
+          <h1 className="text-4xl md:text-6xl font-bold mt-6 mb-4">
             <GradientText>Component Library</GradientText>
           </h1>
           <p className="text-xl text-gray-400 max-w-2xl mx-auto">

@@ -8,7 +8,7 @@ import { ToastProvider } from "@/components/ui/toast-system"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "Aceternity UI - Component Library",
+  title: "JARBS-UI - Component Library",
   description:
     "Beautiful, reusable components built with modern technologies for the next generation of web applications.",
     generator: 'v0.dev'
