@@ -27,7 +27,6 @@ export function Header() {
     { name: "Templates", href: "/templates", badge: "New" },
     { name: "Playground", href: "/playground" },
     { name: "Docs", href: "/docs" },
-    { name: "Showcase", href: "/showcase" },
   ]
 
   return (
