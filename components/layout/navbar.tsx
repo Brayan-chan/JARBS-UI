@@ -58,7 +58,6 @@ export function Navbar() {
     },
     { name: "Playground", href: "/playground" },
     { name: "Docs", href: "/docs" },
-    { name: "Showcase", href: "/showcase" },
   ]
 
   return (
@@ -82,7 +81,7 @@ export function Navbar() {
               <span className="text-2xl font-bold bg-gradient-to-r from-white via-gray-200 to-gray-400 bg-clip-text text-transparent">
                 JARBS-UI
               </span>
-              <span className="text-xs text-gray-400 -mt-1">v2.0</span>
+              <span className="text-xs text-gray-400 -mt-1">v1.0</span>
             </div>
           </Link>
 
@@ -148,18 +147,6 @@ export function Navbar() {
             </div>
 
             {/* Social Links */}
-            <div className="hidden md:flex items-center space-x-2">
-              <MagneticButton>
-                <Button variant="ghost" size="icon" className="text-gray-300 hover:text-white">
-                  <Github className="w-5 h-5" />
-                </Button>
-              </MagneticButton>
-              <MagneticButton>
-                <Button variant="ghost" size="icon" className="text-gray-300 hover:text-white">
-                  <Twitter className="w-5 h-5" />
-                </Button>
-              </MagneticButton>
-            </div>
 
             {/* Get Started Button */}
             <MagneticButton>
