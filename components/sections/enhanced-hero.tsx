@@ -138,7 +138,7 @@ export function EnhancedHero() {
             className="bg-white/5 border-white/20 text-white px-6 py-3 text-sm hover:bg-white/10 transition-all duration-300 cursor-pointer group"
           >
             <Sparkles className="w-4 h-4 mr-2 group-hover:rotate-12 transition-transform" />
-            Introducing JARBS-UI v2.0 - Now with 50+ Components
+            Introducing JARBS-UI v1.0 - Now with 50+ Components
             <ArrowRight className="w-4 h-4 ml-2 group-hover:translate-x-1 transition-transform" />
           </Badge>
         </div>
@@ -224,7 +224,7 @@ export function EnhancedHero() {
         </div>
 
         {/* Scroll Indicator */}
-        <div className="absolute bottom-8 left-1/2 transform -translate-x-1/2 animate-bounce">
+        <div className="absolute bottom-24 left-1/2 transform -translate-x-1/2 animate-bounce">
           <div className="w-6 h-10 border-2 border-white/30 rounded-full flex justify-center">
             <div className="w-1 h-3 bg-white/50 rounded-full mt-2 animate-pulse" />
           </div>
