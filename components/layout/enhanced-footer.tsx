@@ -213,7 +213,7 @@ export function EnhancedFooter() {
         {/* Bottom Section */}
         <div className="footer-section flex flex-col md:flex-row justify-between items-center">
           <div className="flex items-center space-x-4 mb-4 md:mb-0">
-            <p className="text-gray-400 text-sm">© 2024 JARBS-UI. All rights reserved.</p>
+            <p className="text-gray-400 text-sm">© 2025 JARBS-UI. All rights reserved.</p>
             <div className="flex items-center space-x-1 text-gray-400 text-sm">
               <span>Made with</span>
               <Heart className="w-4 h-4 text-red-500 animate-pulse" />
