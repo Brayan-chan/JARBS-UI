@@ -129,7 +129,7 @@ export function EnhancedFooter() {
               </div>
               <div>
                 <h2 className="text-2xl font-bold text-white">JARBS-UI</h2>
-                <p className="text-xs text-gray-400">v2.0</p>
+                <p className="text-xs text-gray-400">v1.0</p>
               </div>
             </div>
             <p className="text-gray-300 mb-6 leading-relaxed">
